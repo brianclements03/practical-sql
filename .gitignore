@@ -2,3 +2,13 @@
 .DS_Store
 .vscode
 *.csv
+env.py
+.DS_Store
+.ipynb_checkpoints/
+__pycache__
+__pycache__/
+*.json
+*.csv
+*.png
+*.html
+*.gpx
